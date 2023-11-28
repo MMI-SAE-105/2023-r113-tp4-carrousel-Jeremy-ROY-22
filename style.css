@@ -13,6 +13,7 @@ img {
     /* aligne horizontalement les enfants */
     display: flex;
     /* largeur du parent */
+    width: 100%;
 
 }
 .carrousel_ecran {
