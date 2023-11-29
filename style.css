@@ -93,7 +93,7 @@ img {
     background-color: rgb(39, 183, 53);
     color: #ffffff;
     padding: 0.5rem 1rem;
-    border-radius: 10px;
+    border-radius: 5px;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
 
@@ -107,4 +107,9 @@ img {
 
   figcaption {
     font-family: 'roboto', sans-serif;
+  }
+
+  h1 {
+    font-family: 'roboto', sans-serif;
+    text-align: center;
   }
