@@ -17,6 +17,7 @@
         <button 
             class="carrousel_btn carrousel_btn-apres" 
             aria-label="slide suivant"
+            @click="$refs.parent.scrollLeft += $refs.parent.clientWidth"
         >&gt</button>
         <div class="carrousel_parent-ecrans" x-ref="parent">
             <div id="ecran-1" class="carrousel_ecran">
