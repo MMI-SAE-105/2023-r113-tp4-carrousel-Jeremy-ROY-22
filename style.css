@@ -104,8 +104,8 @@ img {
 
   
 
-  .actif {
-    background-color: #000000;
+  .carrousel_liens.actif {
+    background-color: #2c819b;
     color: #ffffff;
   }
 
