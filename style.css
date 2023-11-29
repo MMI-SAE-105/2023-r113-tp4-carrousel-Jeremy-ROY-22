@@ -87,5 +87,6 @@ img {
 
 
   .actif {
-    background-color: #923838;
+    background-color: #000000;
+    color: #ffffff;
   }
