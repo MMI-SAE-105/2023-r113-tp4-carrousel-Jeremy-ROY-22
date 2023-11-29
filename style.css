@@ -21,6 +21,7 @@ img {
 
     /* permet de scroller par blocs */
     scroll-snap-type: x mandatory;
+    margin-bottom: 2rem;
 }
 .carrousel_ecran {
     /* largeur du parent pour chaque enfant */
@@ -83,10 +84,24 @@ img {
     list-style: none;
     /* espace entre les enfants */
     gap: 1rem;
+
+    
   }
 
+
+  .caroussel_liste-liens > li > a{
+    background-color: rgb(39, 183, 53);
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+
+  }
 
   .actif {
     background-color: #000000;
     color: #ffffff;
   }
+
+
+  
