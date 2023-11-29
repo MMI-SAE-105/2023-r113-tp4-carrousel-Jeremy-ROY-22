@@ -12,6 +12,7 @@
         <button 
             class="carrousel_btn carrousel_btn-avant"  
             aria-label="slide précedant"
+            @click="$refs.parent.scrollLeft -= parent.clientWidth"
         >&lt</button>
         <button 
             class="carrousel_btn carrousel_btn-apres" 
