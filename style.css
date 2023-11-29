@@ -22,6 +22,7 @@ img {
     /* permet de scroller par blocs */
     scroll-snap-type: x mandatory;
     margin-bottom: 2rem;
+    max-width: 500px;
 }
 .carrousel_ecran {
     /* largeur du parent pour chaque enfant */
