@@ -84,3 +84,8 @@ img {
     /* espace entre les enfants */
     gap: 1rem;
   }
+
+
+  .actif {
+    background-color: #923838;
+  }
