@@ -33,6 +33,7 @@ img {
     scroll-snap-align: start;
     border: 5px solid rgb(55, 55, 55);
     margin: 10px;
+    border-radius: 5px;
 }
 .carrousel_ecran figure {
     /* enlève les marges par défaut */
