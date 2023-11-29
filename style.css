@@ -39,7 +39,7 @@ img {
     flex: none;
     /* aligne les enfants par blocs */
     scroll-snap-align: start;
-    border: 5px solid rgb(55, 55, 55);
+    border: 5px solid rgb(179, 179, 179);
     margin: 10px;
     border-radius: 5px;
 }
