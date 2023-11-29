@@ -75,11 +75,11 @@ img {
   }
   
   .carrousel_btn-avant {
-    left: 0;
+    left: 8px;
   }
   
   .carrousel_btn-apres {
-    right: 0;
+    right: 8px;
   }
 
 
