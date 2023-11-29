@@ -102,15 +102,7 @@ img {
   }
 
 
-  .caroussel_liste-liens > li > a{
-    background-color: rgb(39, 183, 53);
-    color: #ffffff;
-    padding: 0.5rem 1rem;
-    border-radius: 5px;
-    text-decoration: none;
-    font-family: 'Roboto', sans-serif;
-
-  }
+  
 
   .actif {
     background-color: #000000;
@@ -137,5 +129,10 @@ img {
   }
 
   .carrousel_liens {
-    
+    background-color: rgb(39, 183, 53);
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
   }
