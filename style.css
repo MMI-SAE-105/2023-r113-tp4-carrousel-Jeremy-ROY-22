@@ -28,9 +28,10 @@ img {
     width: 100%;
     /* permet de garder toute la largeur du parent */
     flex: none;
-
     /* aligne les enfants par blocs */
     scroll-snap-align: start;
+    border: 5px solid rgb(55, 55, 55);
+    margin: 10px;
 }
 .carrousel_ecran figure {
     /* enlève les marges par défaut */
