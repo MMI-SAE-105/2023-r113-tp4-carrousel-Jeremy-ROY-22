@@ -97,6 +97,7 @@ img {
     list-style: none;
     /* espace entre les enfants */
     gap: 1rem;
+    flex-wrap: wrap;
 
     
   }
@@ -136,3 +137,7 @@ img {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
   }
+
+.caroussel_liste-liens > li {
+    margin-bottom: 1rem;
+}
