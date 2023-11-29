@@ -59,7 +59,7 @@ img {
     position: absolute;
     top: 50%;
     /* centre verticalement ~50% vertical */
-    top: calc(min(500px, 100vw) / 16 * 9 / 2 + 1rem); 
+    top: calc(50% - 1rem); /* suivie des explications données par le professeur a mon collegue */
     /* methode du point mort */
     transform: translateY(-50%); 
     width: 2rem;
